@@ -1,0 +1,8 @@
+{
+    "invoice_number": "Invoice",
+    "date": null,
+    "total_amount": "85.00",
+    "vendor_name": "Invoice",
+    "source_file": "sliced_invoice_pdf.pdf",
+    "processed_at": "2026-10-05T18:01:33.584846"
+}

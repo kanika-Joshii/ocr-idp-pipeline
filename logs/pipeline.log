@@ -1,0 +1,45 @@
+2026-10-05 17:18:24,827 [INFO] IngestionModule: Pipeline directory structure verified/initialized.
+2026-10-05 17:18:24,828 [INFO] IngestionModule: Pipeline directory structure verified/initialized.
+2026-10-05 17:18:24,828 [INFO] IngestionModule: Found 20 pending invoice(s) for processing.
+2026-10-05 18:01:28,561 [INFO] MasterPipeline: Pipeline execution started.
+2026-10-05 18:01:28,564 [INFO] MasterPipeline: Processing file: CGD_invoice.jpeg
+2026-10-05 18:01:29,999 [INFO] MasterPipeline: Successfully processed and archived CGD_invoice.jpeg
+2026-10-05 18:01:30,000 [INFO] MasterPipeline: Processing file: citycare_invoice.jpeg
+2026-10-05 18:01:31,050 [INFO] MasterPipeline: Successfully processed and archived citycare_invoice.jpeg
+2026-10-05 18:01:31,051 [INFO] MasterPipeline: Processing file: E_invoice.jpeg
+2026-10-05 18:01:32,259 [INFO] MasterPipeline: Successfully processed and archived E_invoice.jpeg
+2026-10-05 18:01:32,260 [INFO] MasterPipeline: Processing file: Global_shipping_service.jpeg
+2026-10-05 18:01:33,431 [INFO] MasterPipeline: Successfully processed and archived Global_shipping_service.jpeg
+2026-10-05 18:01:33,432 [INFO] MasterPipeline: Processing file: sliced_invoice_pdf.pdf
+2026-10-05 18:01:33,592 [INFO] MasterPipeline: Successfully processed and archived sliced_invoice_pdf.pdf
+2026-10-05 18:01:33,593 [INFO] MasterPipeline: Processing file: X00016469619.txt
+2026-10-05 18:01:33,620 [INFO] MasterPipeline: Successfully processed and archived X00016469619.txt
+2026-10-05 18:01:33,628 [INFO] MasterPipeline: Processing file: X51005001667.txt
+2026-10-05 18:01:33,661 [INFO] MasterPipeline: Successfully processed and archived X51005001667.txt
+2026-10-05 18:01:33,675 [INFO] MasterPipeline: Processing file: X51005255805.jpg
+2026-10-05 18:01:34,967 [INFO] MasterPipeline: Successfully processed and archived X51005255805.jpg
+2026-10-05 18:01:34,972 [INFO] MasterPipeline: Processing file: X51005268472.txt
+2026-10-05 18:01:35,006 [INFO] MasterPipeline: Successfully processed and archived X51005268472.txt
+2026-10-05 18:01:35,012 [INFO] MasterPipeline: Processing file: X51005306399.txt
+2026-10-05 18:01:35,050 [INFO] MasterPipeline: Successfully processed and archived X51005306399.txt
+2026-10-05 18:01:35,052 [INFO] MasterPipeline: Processing file: X51005365179.txt
+2026-10-05 18:01:35,093 [INFO] MasterPipeline: Successfully processed and archived X51005365179.txt
+2026-10-05 18:01:35,096 [INFO] MasterPipeline: Processing file: X51005441398.txt
+2026-10-05 18:01:35,122 [INFO] MasterPipeline: Successfully processed and archived X51005441398.txt
+2026-10-05 18:01:35,127 [INFO] MasterPipeline: Processing file: X51005447852.jpg
+2026-10-05 18:01:36,132 [INFO] MasterPipeline: Successfully processed and archived X51005447852.jpg
+2026-10-05 18:01:36,136 [INFO] MasterPipeline: Processing file: X51005676540.jpg
+2026-10-05 18:01:37,858 [INFO] MasterPipeline: Successfully processed and archived X51005676540.jpg
+2026-10-05 18:01:37,868 [INFO] MasterPipeline: Processing file: X51005705804.jpg
+2026-10-05 18:01:39,432 [INFO] MasterPipeline: Successfully processed and archived X51005705804.jpg
+2026-10-05 18:01:39,435 [INFO] MasterPipeline: Processing file: X51005745188.jpg
+2026-10-05 18:01:40,825 [INFO] MasterPipeline: Successfully processed and archived X51005745188.jpg
+2026-10-05 18:01:40,831 [INFO] MasterPipeline: Processing file: X51005757286.jpg
+2026-10-05 18:01:42,147 [INFO] MasterPipeline: Successfully processed and archived X51005757286.jpg
+2026-10-05 18:01:42,149 [INFO] MasterPipeline: Processing file: X51005806703.jpg
+2026-10-05 18:01:44,239 [INFO] MasterPipeline: Successfully processed and archived X51005806703.jpg
+2026-10-05 18:01:44,240 [INFO] MasterPipeline: Processing file: X51007339113.jpg
+2026-10-05 18:01:45,555 [INFO] MasterPipeline: Successfully processed and archived X51007339113.jpg
+2026-10-05 18:01:45,560 [INFO] MasterPipeline: Processing file: X51008099084.jpg
+2026-10-05 18:01:47,226 [INFO] MasterPipeline: Successfully processed and archived X51008099084.jpg
+2026-10-05 18:01:47,227 [INFO] MasterPipeline: Pipeline finished. Success: 20, Failed: 0
